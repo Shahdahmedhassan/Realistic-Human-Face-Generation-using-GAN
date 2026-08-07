@@ -2,7 +2,7 @@
 
 A Generative Adversarial Network (GAN) that learns to synthesize realistic human face images from random noise, wrapped in an interactive **Streamlit** web app.
 
-🔗 **Live App:** [Add your deployed Streamlit link here]
+🔗 **Live App:** [(https://realistic-human-face-generation-using-gan-zyjxj8emqyjncwdrfzxd.streamlit.app/)]
 
 ---
 
